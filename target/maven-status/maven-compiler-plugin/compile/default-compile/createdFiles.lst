@@ -1,0 +1,6 @@
+com\mughrabi\fxdeal\FxdealApplication.class
+com\mughrabi\repository\DealRepository.class
+com\mughrabi\service\DealService.class
+com\mughrabi\entity\Deal.class
+com\mughrabi\controller\DealController.class
+com\mughrabi\dto\DealDTO.class
